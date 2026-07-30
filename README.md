@@ -1,4 +1,5 @@
 Fraud Detection using lOGISTIC Regression Model
+
 📌 Project Overview
 
 Fraudulent financial transactions cause significant losses to businesses and financial institutions. This project develops a Machine Learning-based Fraud Detection System that classifies transactions as Fraudulent or Legitimate using historical transaction data.
