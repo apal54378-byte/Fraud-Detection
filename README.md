@@ -1,4 +1,4 @@
-Fraud Detection using lOGISTIC Regression Model
+Fraud Detection using LOGISTIC Regression Model
 
 📌 Project Overview
 
